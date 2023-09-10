@@ -10,6 +10,10 @@ The data is in CSV format and contains the following columns:
 - `serviceType`: The type of service (road, electric, or mountain).
 - `picture`: A URL to a picture of the person.
 
+## Pictures
+
+All the images were generated using midjourney and uploaded to imgur.com
+
 ## Usage
 
 Feel free to use this data as you see fit, in line with the terms of the license.
