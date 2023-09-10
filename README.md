@@ -1,6 +1,7 @@
 # Mastering FlutterFlow Dummy Data
 
 This repository contains dummy data for an app being built as part of video 21 of James No Code's Mastering FlutterFlow series. The section of the video series this pertains to is called "Building a Complex App #2."
+https://courses.jamesnocode.com/mastering-flutterflow
 
 ## Data Format
 
