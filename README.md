@@ -15,6 +15,10 @@ The data is in CSV format and contains the following columns:
 
 All the images were generated using midjourney and uploaded to imgur.com
 
+## Updates
+
+Noticed an issue when going through the tutorial that the drop down and list view were not showing anything. I capitilaized serviceType names and that corrected the issue. You should not run into this issue if you download the latest .csv posted.
+
 ## Usage
 
 Feel free to use this data as you see fit, in line with the terms of the license.
